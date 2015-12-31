@@ -1,0 +1,23 @@
+* {
+  padding : 0;
+  margin : 0;
+}
+
+body {
+  padding: 10px 50px;
+}
+
+#points {
+  float: left;
+}
+
+#chart {
+  height: 425px;
+  width: 425px;
+  float: right;
+}
+
+#svg {
+  background-color: #abc;
+  float: right;
+}
